@@ -17,5 +17,6 @@ I'm an Informatics Engineering student. Currently learning go in documentation.
   <a href="https://neovim.io/"><img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-%23CC292B.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
   <a href="https://gradle.org"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white"/></a>
+  <a href="https://git-scm.com" title="Go to Git Documentation"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 <br />
