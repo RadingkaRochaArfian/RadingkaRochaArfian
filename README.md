@@ -1,7 +1,7 @@
 # 🏄‍♂️Radingka Rocha Arfian
 **`Still Learning`**  
   
-I'm an Informatics Engineering student. Currently learning go in documentation.  
+I'm an Informatics Engineering student. Currently learning go through problem set.  
 ## 
 ### 🧰 Tech Stack  
 <p align="left">
