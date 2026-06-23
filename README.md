@@ -5,7 +5,7 @@ I'm an Informatics Engineering student. Currently learning go through problem se
 ## 
 ### 🧰 Tech Stack  
 <p align="left">
-  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=openjdk&logoColor=black"/></a>
   <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://html.spec.whatwg.org"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
