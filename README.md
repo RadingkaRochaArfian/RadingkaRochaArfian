@@ -13,7 +13,6 @@ I'm an Informatics Engineering student.
   <a href="https://www.linux.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://html.spec.whatwg.org"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://www.w3.org/Style/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="https://www.gnu.org/software/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a><br />
   <a href="https://github.com/tmux/tmux/wiki"><img alt="Tmux" src="https://img.shields.io/badge/tmux-%231BB456.svg?style=for-the-badge&logo=tmux&logoColor=white"/></a>
   <a href="https://hermesengine.dev/"><img alt="Hermes" src="https://img.shields.io/badge/Hermes-%234285F4.svg?style=for-the-badge&logo=hermes&logoColor=white"/></a>
