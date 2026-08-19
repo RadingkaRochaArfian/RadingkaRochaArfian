@@ -2,7 +2,7 @@
 
 <br>
 <br>
-I'm an Informatics Engineering student. 
+I'm an Informatics Engineering student. Currently aiming to make more project
 <br>
 <br>
 
