@@ -1,10 +1,8 @@
 # 🏄‍♂️Radingka Rocha Arfian
-<a href="https://go.dev/doc/">
-  <img src="https://img.shields.io/badge/Learning-3%25-gray?logo=go&logoColor=white&labelColor=00ADD8">
-</a>
+
 <br>
 <br>
-I'm an Informatics Engineering student. Currently learning go through problem set.  
+I'm an Informatics Engineering student. 
 <br>
 <br>
 
